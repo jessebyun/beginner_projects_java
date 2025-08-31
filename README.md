@@ -2,7 +2,6 @@
 
 ```
 java/
-│
 ├── mortgage-calculator/
 ├── tic-tac-toe/
 └── README.md
