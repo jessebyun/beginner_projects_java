@@ -1,7 +1,7 @@
-## Practicing Data Structures & Algorithms in Java
+## Beginner Projects in Java
 
 ```
-beginner_projects_java/
+java/
 │
 ├── mortgage-calculator/
 ├── tic-tac-toe/
