@@ -3,6 +3,6 @@
 ```
 java/
 ├── mortgage-calculator-oop/
-├── tic-tac-toe/
+├── tic-tac-toe-game/
 └── README.md
 ```
